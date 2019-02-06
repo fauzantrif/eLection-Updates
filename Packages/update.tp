@@ -3,11 +3,9 @@
     "codename": "Arctic Fox",
     "latest": 1,
     "packages": {
-      "build_1": {
-        "filename": "eLection-update-2.1.pkg",
-        "package_hash": "234bk2j3b4j",
-        "package": "http://blablabla/"
-      }
+      "filename": "eLection-update-2.1.pkg",
+      "package_hash": "234bk2j3b4j",
+      "package": "http://blablabla/"
     }
   }
 }
