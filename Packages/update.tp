@@ -1,6 +1,19 @@
 {
   "version_2": {
     "codename": "Arctic Fox",
-    "latest": 0
+    "latest": 1,
+    "packages": {
+      "filename": "eLectionUpdate-2.1.pkg",
+      "checksum": "8eb7a4c7d7060ba2512dabfb021b216e",
+      "package": "https://github.com/fauzantrif/eLection-Updates/blob/master/Packages/eLectionUpdate-2.1.pkg?raw=true",
+      "description": [
+      	"New administration login page",
+        "New election registration ticket design (Election Pass)",
+        "Added export Election Pass to JPG Image",
+        "Fixed some layout bugs",
+        "Fixed some verbose in browser's console",
+        ".....for full detail, visit <a href='https://fauzantrif.wordpress.com/2019/10/16/election-update-releases/' target='_blank' class='text-success'>Election Update Releases</a>"
+      ]
+    }
   }
 }
