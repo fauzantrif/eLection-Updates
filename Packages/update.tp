@@ -5,7 +5,7 @@
     "packages": {
       "filename": "eLectionUpdate-2.1.pkg",
       "checksum": "cd21bc1be2a8f2f511c3ab2d98aba9c9",
-      "package": "https://github.com/fauzantrif/eLection-Updates/blob/master/Packages/eLectionUpdate-2.1.pkg?raw=true",
+      "package": "https://raw.githubusercontent.com/fauzantrif/eLection-Updates/master/Packages/eLectionUpdate-2.1.pkg",
       "description": [
       	"New administration login page",
         "New election registration ticket design (Election Pass)",
