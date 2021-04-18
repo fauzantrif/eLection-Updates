@@ -4,7 +4,7 @@
     "latest": 2,
     "packages": {
       "filename": "eLectionUpdate-2.2.pkg",
-      "checksum": "4b4c8c17684257990c5bf580d3696541",
+      "checksum": "7eecb2eb33a03539a178adc0cf0f9545",
       "package": "https://raw.githubusercontent.com/fauzantrif/eLection-Updates/master/Packages/eLectionUpdate-2.2.pkg",
       "description": [
       	"New administration login page",
